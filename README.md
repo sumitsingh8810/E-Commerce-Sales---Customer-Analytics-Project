@@ -87,7 +87,7 @@ Key activities:
   - Order_Month
   - Order_Month_Name
   - Order_Year
-- Exported the cleaned dataset as `ecommerce_sales_cleaned.csv`.
+- Exported the cleaned dataset as `Cleaned_data.csv`.
 
 ### 3. SQL Analysis Using MySQL
 
