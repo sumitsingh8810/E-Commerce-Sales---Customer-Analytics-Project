@@ -1,5 +1,3 @@
-# E-Commerce Sales & Customer Analytics
-
 # 🛒 E-Commerce Sales & Customer Analytics | Python, SQL & Power BI
 
 
